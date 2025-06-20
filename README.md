@@ -1,4 +1,4 @@
-# Sales-Data-Analysis (Interactive Dashboard creation Using MS Excel)
+# Google-Looker-Sales-Dashbord (Interactive Dashboard creation Using Docker)
 ## Project Objective
 the sales Dashboard show sale categories,Profit gained over time, Sales by state,Month Sales and Top 5 Customer Making Profits.
 ## Data SET Used   
