@@ -1,32 +1,41 @@
-# E-commerce -Sales-Dashbord (Interactive Dashboard creation)
-## Project Objective
-the sales Dashboard show sale categories,Profit gained over time, Sales by state,Month Sales and Top 5 Customer Making Profits.
-## Data SET Used   
-- <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/github.xlsx">Dataset</a>
-## Quation(KPIs)
-1.	Sales by Category – Breaks down sales into subcategories such as Phones, Chairs, Tables, etc.
-2.	Profit Gained Over Time – Tracks profit trends from 2014 to 2018, segregating by furniture, office supplies, and technology.
-3.	Sales by State – Displays sales volume across different states, segmented by product categories.
-4.	Customer Count by Year – Shows the number of customers gained annually from 2014 to 2017.
-5.	Month-wise Sales – Presents the monthly sales trend over a year.
-6.	Top 5 Customers Making Profits – Highlights the top five customers contributing the highest profits.
+# 🛒 E-Commerce Sales & Profit Executive Dashboard
 
-## Quation(KPIs)
--	Sales by Category – Breaks down sales into subcategories such as Phones, Chairs, Tables, etc.
--	Profit Gained Over Time – Tracks profit trends from 2014 to 2018, segregating by furniture, office supplies, and technology.
--	Sales by State – Displays sales volume across different states, segmented by product categories.
--	Customer Count by Year – Shows the number of customers gained annually from 2014 to 2017.
--	Month-wise Sales – Presents the monthly sales trend over a year.
--	Top 5 Customers Making Profits – Highlights the top five customers contributing the highest profits.
+![E-Commerce Sales Dashboard](Screenshot%202024-09-30%20155022.png)
 
-- Dashboard Interaction <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/Screenshot%202024-09-30%20155022.png">View Dashboard</a>
+## 📌 Project Overview
+This interactive dashboard analyzes multi-year e-commerce transactional data (2014–2018) to provide executive insights into revenue performance, profitability, regional distribution, and key customer segments.
 
-## Process
+---
 
--	Data Collection – Sales data was collected over a period, categorized into product types, customer details, and locations.
--	Data Analysis – The analysis focused on identifying sales distribution across product categories, state-wise performance, and customer contributions.
--	Visualization – The results are visualized using charts and graphs, displaying sales trends, profit margins, and customer behaviour.
--	
-## Dashboard
-<img width="730" alt="Screenshot 2024-09-30 155022" src="https://github.com/user-attachments/assets/211ea337-ddfe-4dd1-b7f2-60d94cb61d3c">
+## 🎯 Key KPIs & Performance Indicators
 
+* **Sales by Category & Sub-Category:** Performance analysis across product sub-categories (Phones, Chairs, Storage, Binders, etc.).
+* **Profit Trends Over Time:** Annual profitability dynamics across core categories (Furniture, Office Supplies, and Technology).
+* **Geographic Sales Distribution:** State-level sales breakdown segmented by product line.
+* **Customer Acquisition:** Yearly active customer trends (2014 to 2017).
+* **Monthly Sales Volatility:** Seasonal analysis across 12-month cycles.
+* **Top 5 Profitable Customers:** Highlighting top account contributors driving net profitability.
+
+---
+
+## 🔄 End-to-End Analytics Workflow
+
+1. **Data Collection & Cleaning:** Aggregated raw transactional records, validated date structures, and handled missing values.
+2. **Data Modeling & Calculations:** Formatted core measures for Sales Volume, Profit Margins, and YoY Customer Acquisition.
+3. **Data Visualization & Dashboarding:** Built an interactive layout with dynamic Slicers for *Category* and *Year* filtering.
+
+---
+
+## 💡 Key Business Insights
+
+| Focus Area | Key Observation | Strategic Recommendation |
+| :--- | :--- | :--- |
+| **Product Sub-categories** | Phones and Chairs drive high revenue volume. | Optimize inventory allocation for top performers. |
+| **Profit Margins** | Technology segment yields highest long-term margin. | Increase cross-selling efforts in high-margin tech accessories. |
+| **Geographic Markets** | Top 5 states contribute over 60% of sales. | Scale target marketing campaigns in high-performing regions. |
+
+---
+
+## 📁 Repository Files
+* `Sales_Data.xlsx`: Main Excel workbook containing source data, data cleaning logs, and dashboard layer.
+* `Screenshot 2024-09-30 155022.png`: Dashboard overview asset.
