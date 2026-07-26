@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales & Profit Executive Dashboard
 
-![E-Commerce Sales Dashboard](ecommerce_sales_dashboard.png)
+![E-Commerce Sales Dashboard](Screenshot%202024-09-30%20155022.png)
 
 ## 📌 Project Overview
 This interactive dashboard analyzes multi-year e-commerce transactional data (2014–2018) to provide executive insights into revenue performance, profitability, regional distribution, and key customer segments.
