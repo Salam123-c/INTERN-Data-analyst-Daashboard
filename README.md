@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales & Profit Executive Dashboard
 
-![E-Commerce Sales Dashboard](C:/Users/hp/Pictures/Screenshots/Screenshot 2026-07-20 173539.png)
+![E-Commerce Sales Dashboard](Screenshot 2024-09-30 155022.png)
 
 ## 📌 Project Overview
 This interactive dashboard analyzes multi-year e-commerce transactional data (2014–2018) to provide executive insights into revenue performance, profitability, regional distribution, and key customer segments.
